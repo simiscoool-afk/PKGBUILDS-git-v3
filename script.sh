@@ -11,7 +11,6 @@ contour-git \
 cutefish-git \
 disman-git \
 fastfetch-git \
-fbneo-git \
 ffmpeg-git \
 kwinft-git \
 lapce-git \
