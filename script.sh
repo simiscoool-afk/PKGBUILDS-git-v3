@@ -16,7 +16,6 @@ kwinft-git \
 lapce-git \
 gamescope-git \
 xorg-xwayland-git \
-spectrwm-git \
 mold-git \
 hyprland-git \
 mesa-git \
