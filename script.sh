@@ -10,7 +10,6 @@ paru -G \
 contour-git \
 cutefish-git \
 disman-git \
-exa-git \
 fastfetch-git \
 fbneo-git \
 ffmpeg-git \
